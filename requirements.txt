@@ -1,0 +1,4 @@
+# Azure Speech Service Text-to-Speech Requirements
+# Install with: pip install -r requirements.txt
+
+azure-cognitiveservices-speech>=1.24.0
