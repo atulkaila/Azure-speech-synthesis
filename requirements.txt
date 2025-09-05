@@ -2,3 +2,9 @@
 # Install with: pip install -r requirements.txt
 
 azure-cognitiveservices-speech>=1.24.0
+
+# Testing dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-mock>=3.8.0
+coverage>=6.0.0
